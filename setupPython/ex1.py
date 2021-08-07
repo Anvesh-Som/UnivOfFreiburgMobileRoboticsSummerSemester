@@ -13,5 +13,3 @@ mp.plot(x,to_plot)
 # to save plot as image
 mp.savefig('ex1.png')
 mp.show()
-
-vecNormal = np.rand
