@@ -13,3 +13,5 @@ mp.plot(x,to_plot)
 # to save plot as image
 mp.savefig('ex1.png')
 mp.show()
+
+#this is a test
